@@ -1,0 +1,285 @@
+/* 
+  Localizable.strings
+  VMS Employee
+
+  Created by Ronak on 30/05/18.
+  Copyright © 2018 Ecosmob. All rights reserved.
+*/
+
+//--------------------------------------------------
+// Success messages
+//--------------------------------------------------
+
+
+//--------------------------------------------------
+// Error messages
+//--------------------------------------------------
+
+"kDefaultErrorMessage"                  = "बाद में पुन: प्रयास करें";
+"kDefaultNoInternetMessage"             = "कृपया अपने इंटरनेट कनेक्शन की जाँच करें";
+
+"kEnterUserPhoneNumber"                 = "कृपया उपयोगकर्ता नाम / मोबाइल नंबर दर्ज करें";
+"kEnterPassword"                        = "कृपया पासवर्ड भरें";
+"kValidPassword"                        = "पासवर्ड की लंबाई कम से कम 6 अक्षर होनी चाहिए!";
+"kEnterPhoneNumber"                     = "कृपया मोबाइल नंबर दर्ज करें";
+"kValidPhoneNumber"                     = "मोबाइल नंबर 10 अंक होना चाहिए";
+"kInValidPhoneNumber"                   = "अमान्य मोबाइल नंबर";
+"kEnterVerificationCode"                = "कृपया ओटीपी दर्ज करें";
+"kValidVerificationCode"                = "ओटीपी 4 अंक होना चाहिए!";
+"kEnterConfirmPassword"                 = "कृपया स्थायी पासवर्ड दर्ज करें";
+"kValidConfirmPassword"                 = "पासवर्ड की लंबाई कम से कम 6 अक्षर होनी चाहिए!";
+"kPasswordNotMatch"                     = "पासवर्ड मेल नहीं खाते";
+"kEnterEmail"                           = "कृपया ईमेल दर्ज करें।";
+"kValidEmail"                           = "अमान्य ईमेल पता";
+"kValidAlternateMobile"                 = "मोबाइल नंबर 10 अंक होना चाहिए";
+"kEnterMeetingAgenda"                   = "मीटिंग एजेंडा दर्ज करें";
+"kEnterMeetingLocation"                 = "कृपया मीटिंग स्थान दर्ज करें";
+"kValideScheduleMeetingDate"            = "मीटिंग समाप्ति तिथि प्रारंभ तिथि से अधिक होनी चाहिए";
+"kValideScheduleMeetingTime"            = "मीटिंग समाप्ति समय प्रारंभ समय से अधिक होनी चाहिए";
+"kEnterEmployeeName"                    = "कर्मचारी का नाम टाइप करें";
+"kEnterVisitorName"                     = "कृपया मुलाकाती का नाम दर्ज करें";
+"kEnterCompanyName"                     = "कृपया कंपनी का नाम दर्ज करें";
+"kEnterComment"                         = "कृपया पहले टिप्पणी दर्ज करें";
+"kWarningCancelMeeting"                 = "क्या आप वाकई इस मीटिंग को रद्द करना चाहते हैं?";
+"kWarningAcceptMeeting"                 = "क्या आप वाकई इस मीटिंग को स्वीकार करना चाहते हैं?";
+"kWarningRejectMeeting"                 = "क्या आप वाकई इस मीटिंग को अस्वीकार करना चाहते हैं?";
+"kUpdateVersionWarning"                 = "एक नया अपडेट उपलब्ध है, कृपया नया संस्करण अपडेट करें।";
+
+"No visitor found"                      = "कोई मुलाकाती नहीं मिला";
+"No employee found"                     = "कोई कर्मचारी नहीं मिला";
+
+//--------------------------------------------------
+// ViewController Title
+//--------------------------------------------------
+"LoginVC"                                = "Login";
+"ForgotVC"                               = "Forgot Password";
+
+
+//--------------------------------------------------
+//Other String to String Localisation
+//--------------------------------------------------
+"TODAY'S MEETINGS"                      = "आज की बैठकें";
+"PENDING MEETINGS"                      = "लंबित बैठकें";
+"MY MEETINGS"                          = "मेरी बैठकें";
+"PENDING\nMEETINGS"                     = "लंबित बैठकें";
+"            Meeting Made"              = "             बैठक बनाई गई";
+"MY\nMEETINGS"                          = "मेरी बैठकें";
+"No Meeting Found"                      = "कोई बैठक नहीं मिली";
+"Notification"                          = "सूचनाएं";
+"Clear Filter"                          = "फिल्टर साफ़ करें";
+"Meeting Details"                       = "बैठक का विवरण";
+"Meeting agenda:"                       = "बैठक की कार्यसूची:";
+"At"                                    = "पर";
+"Add Comment"                           = "टिप्पणी जोड़ें";
+"Meeting Location"                      = "मीटिंग स्थान";
+"Select Status"                         = "स्थिति का चयन करें";
+"Employee Details:"                     = "कर्मचारी विवरण";
+"SUBMIT"                                = "जमा करें";
+"LOGIN"                                 = "लॉग-इन करें";
+"Update"                                = "अपडेट करें";
+"Not now"                               = "अभी नहीं";
+"No Notification Found"                 = "कोई अधिसूचना नहीं मिली";
+"Meeting Agenda"                        = "बैठक की कार्यसूची";
+"Unit"                                  = "शाखा";
+
+//Sheet Shared Localisation Text
+"Home"                                  = "होम";
+"Notifications"                         = "सूचनाएं";
+"Calender"                              = "कैलेंडर";
+"Change Password"                       = "पासवर्ड बदलें";
+"Edit Profile"                          = "प्रोफाइल एडिट करें";
+"Logout"                                = "लोग आउट";
+"Today's Meetings"                      = "आज की बैठकें";
+
+"Meeting Made"                          = " बैठक बनाई गई";
+"Start"                                 = "प्रारंभ";
+"Later"                                 = "बाद में";
+"Schedule Appointment"                  = "नियुक्ति की सूची बनाना";
+"Choose Meeting Type"                   = "मीटिंग प्रकार चुनें";
+"Settings"                              = "सेटिंग्स";
+"External"                              = "बाहरी";
+"Internal"                              = "अंदर";
+
+"Edit Profile"                          = "प्रोफाइल एडिट करें";
+"Employee Details"                      = "कर्मचारी विवरण";
+"Reset Password"                        = "पासवर्ड रीसेट";
+"Employee ID"                           = "कर्मचारी आईडी";
+"Username"                              = "उपयोगकर्ता नाम";
+"Password"                              = "पासवर्ड";
+"First Name"                            = "पहला नाम";
+"Last Name"                             = "अंतिम नाम";
+"Mobile Number"                         = "मोबाइल नंबर";
+"Alternate Number"                      = "वैकल्पिक नंबर";
+"Email Address"                         = "ईमेल पता";
+"Reporting To"                          = "को रिपोर्ट करेंगे";
+"Select Department"                     = "विभाग का चयन करें";
+"Select Designation"                    = "पदनाम का चयन करें";
+"Reporting Zone"                        = "रिपोर्टिंग जोन";
+
+"Schedule Meeting"                                = "बैठक सुनियोजित करें";
+"Enter below details and schedule your meeting"    = "विवरण नीचे दर्ज करें और अपनी मीटिंग शेड्यूल करें";
+"Meeting agenda"                                = "बैठक की कार्यसूची";
+"From"                                            = "से";
+"To"                                                = "को ";
+"Date"                                            = "तारीख";
+"Visitor Details"                                    = "मुलाक़ाती विवरण";
+"Visitor Name"                                    = "मुलाक़ाती का नाम";
+"Company"                                            = "कंपनी";
+"Email"                                            = "ईमेल";
+"Location"                                        = "स्थान";
+"Notes"                                            = "टिप्पणियाँ";
+"Select Time"                                        = "समय का चयन करें";
+"Meeting time can not be set before current time"    = "मीटिंग समय वर्तमान समय से पहले सेट नहीं किया जा सकता है";
+"Employee Name"                                    = "कर्मचारी का नाम";
+"Visitors"                                        = "मुलाक़ाती";
+"Visitor"                                        = "मुलाक़ाती";
+"Employees"                                        = "कर्मचारियों";
+"Employee"                                         = "कर्मचारि";
+"Search Visitor"                                = "मुलाक़ाती की खोज करें";
+"Search Employee"                                    = "कर्मचारियों की खोज करें";
+
+"Pending Meetings"                                = "लंबित बैठकें";
+"Today"                                            = "आज";
+"Yesterday"                                         = "बिता कल";
+"Weekly"                                            = "साप्ताहिक";
+"Monthly"                                            = "महीने के";
+
+"My Meetings"                                        = "मेरी बैठकें";
+"My Meetings Details"                                = "मेरी बैठक विवरण";
+"SCHEDULED"                                        = "अनुसूचित";
+
+"Pending Meetings Details"                        = "लंबित बैठक विवरण";
+"Meeting with"                                    = "के साथ बैठक";
+"Team"                                            = "टीम";
+"Posted by"                                        = "द्वारा प्रकाशित किया गया था";
+"Notes :"                                            = "टिप्पणियाँ :";
+"Comment"                                            = "टिप्पणी";
+"Accept"                                            = "स्वीकार";
+"Reject"                                            = "अस्वीकार";
+"Forward"                                            = "आगे";
+"Mark as complete"                                = "पूर्ण के रूप में चिह्नित करें";
+"No meeting found"                                = "कोई बैठक नहीं मिली";
+"No visitor found"                                = "कोई मुलाकाती नहीं मिला";
+"No employee found"                                = "कोई कर्मचारी नहीं मिला";
+
+"Add comment"                                        = "टिप्पणी जोड़ें";
+"Please enter comment first"                        = "कृपया पहले टिप्पणी दर्ज करें";
+"Day"                                                = "दिन";
+"Month"                                            = "महीना";
+"Edit Comment"                                    = "टिप्पणी एडिट करें";
+"PENDING"                                            = "लंबित";
+
+"Forward"                                            = "फॉरवर्ड";
+"To:"                                                = "को:";
+"Department:"                                        = "विभाग:";
+"Reporting to:"                                    = "को रिपोर्ट करेंगे:";
+"Email:"                                            = "ईमेल:";
+"Mobile:"                                            = "मोबाइल:";
+"Cancel"                                            = "रद्द करना";
+"Filter"                                        = "फिल्टर";
+"Type Employee's name"                                = "कर्मचारी का नाम टाइप करें";
+"Are you sure you want to accept this meeting?"    = "क्या आप वाकई इस मीटिंग को स्वीकार करना चाहते हैं?";
+"Are you sure you want to reject this meeting?"    = "क्या आप वाकई इस मीटिंग को अस्वीकार करना चाहते हैं?";
+"Yes"                                                = "हाँ";
+"No"                                                = "नहीं";
+
+"Meeting Made"                                    = "बैठक बनाई गई";
+"Meeting Made Details"                            = "बैठक का विवरण";
+"Type Visitor's name"                                = "मुलाकाती का नाम टाइप करें";
+
+"SELECT STATUS"                                    = "स्थिति चुनें";
+"FORWARDED"                                        = "आगे भेजा गया";
+"COMPLETED"                                        = "पूरा कर लिया";
+"REJECTED"                                        = "अस्वीकृत";
+"EXPIRED"                                           = "सीमा समाप्त";
+"CANCELLED"                                       = "रद्द";
+
+"Edit Meeting Details"                            = "मीटिंग विवरण एडिट करें";
+"Yesterday"                                        = "बिता कल";
+
+"Login"                                            = "लॉग-इन करें";
+"Forgot Password?"                                = "पासवर्ड भूल गए?";
+"Username/Mobile number"                            = "उपयोगकर्ता नाम / मोबाइल नंबर";
+"Password"                                        = "पासवर्ड ";
+"Please Enter Username"                            = "कृपया उपयोगकर्ता नाम दर्ज करें";
+"Invalid Username"                                = "अमान्य उपयोगकर्ता नाम";
+"Please Enter Password"                            = "कृपया पासवर्ड भरें";
+"Invalid Password"                                = "अवैध पासवर्ड";
+"Password length must be minimum 6 letters!"        = "पासवर्ड की लंबाई कम से कम 6 अक्षर होनी चाहिए!";
+
+"Forgot Password"                                    = "पासवर्ड भूल गए";
+
+"Submit"                                            = "जमा करें";
+"Mobile Number"                                    = "मोबाइल नंबर";
+"Please Enter Mobile Number"                        = "कृपया मोबाइल नंबर दर्ज करें";
+"Mobile Number must be 10 digits"                    = "मोबाइल नंबर 10 अंक होना चाहिए";
+"Invalid Mobile Number"                            = "अमान्य मोबाइल नंबर";
+"Invalid Email Address"                            = "अमान्य ईमेल पता";
+
+"Verify OTP"                                        = "ओटीपी सत्यापित करें";
+"Check in your mobile!"                            = "अपने मोबाइल में जांचें!";
+"Enter the code we sent to"                          = "हमने जिस कोड को भेजा है उसे दर्ज करें";
+"Enter code here"                                    = "यहाँ कोड दर्ज करें";
+"Resend OTP"                                        = "ओटीपी पुनः भेजें";
+"Please Enter OTP"                                = "कृपया ओटीपी दर्ज करें";
+"OTP must be 4 digit!"                            = "ओटीपी 4 अंक होना चाहिए!";
+
+"What would you like your new password to be ?"    = "आपको अपना नया पासवर्ड क्या पसंद आएगा?";
+"New Password"                                    = "नया पासवर्ड";
+"Confirm Password"                                = "पासवर्ड की पुष्टि करें";
+"Passwords do not Match"                            = "पासवर्ड मेल नहीं खाते";
+"Please Enter Confirm Password"                    = "कृपया स्थायी पासवर्ड दर्ज करें";
+"Please Enter New Password"                        = "कृपया नया पासवर्ड दर्ज करें";
+"Reset"                                            = "रीसेट";
+"Success !"                                        = "सफलता !";
+"Your Password successfully changed!"                = "आपका पासवर्ड सफलतापूर्वक बदल गया!";
+"Ok"                                            = "ठीक";
+
+"Please Enter Email Address"                        = "कृपया ईमेल पता दर्ज करें";
+"Please Enter Alternate Mobile Number"            = "कृपया वैकल्पिक मोबाइल नंबर दर्ज करें";
+
+"Please Enter Meeting Agenda"                        = "मीटिंग एजेंडा दर्ज करें";
+"Please Select Meeting Date"                        = "मीटिंग तिथि का चयन करें";
+"Please Select Meeting Start Date"                = "मीटिंग प्रारंभ दिनांक का चयन करें";
+"Please Select Meeting End Date"                    = "मीटिंग समाप्ति तिथि का चयन करें";
+"Please Select Meeting Start Time"                = "मीटिंग स्टार्ट समय का चयन करें";
+"Please Select Meeting End Time"                    = "मीटिंग समाप्ति समय का चयन करें";
+"Please Enter Visitor Name"                        = "कृपया मुलाकाती का नाम दर्ज करें";
+"Please Enter Company Name"                        = "कृपया कंपनी का नाम दर्ज करें";
+"Please Enter Location"                            = "कृपया स्थान दर्ज करें";
+"Please Enter Notes"                                = "कृपया नोट्स दर्ज करें";
+"Invalid Meeting Agenda"                            = "अवैध बैठक एजेंडा";
+
+"Invalid Visitor Name"                            = "अमान्य मुलाकाती का नाम";
+"Invalid Company Name"                            = "अमान्य कंपनी का नाम";
+"Invalid Location"                                = "अमान्य स्थान";
+"Invalid Notes"                                    = "अमान्य नोट्स";
+
+"Ooops!"                                            = "उफ़!";
+"Retry"                                            = "पुन: प्रयास करें";
+"Internal Server Error"                            = "आंतरिक सर्वर त्रुटि";
+
+"You are offline! Check your internet connection"   = "आप ऑफलाइन हैं! अपना इंटरनेट संपर्क जांचे";
+"Please try again after sometime"                   = "कृपया कुछ समय बाद पुनः प्रयास करें";
+"Please try again"                               = "कृपया पुन: प्रयास करें";
+
+"Something went to wrong!"                       = "कुछ गलत हो गया!";
+"Please check your internet connection"           = "कृपया अपने इंटरनेट कनेक्शन की जाँच करें";
+"Unknown"                                           = "अनजान";
+"Loading..."                                       = "लोड हो रहा है...";
+"Meeting Successfully accepted."                   = "बैठक सफलतापूर्वक स्वीकार की गई।";
+"Meeting Rejected."                               = "बैठक अस्वीकार कर दी गई।";
+
+"Version"                                          =  "संस्करण";
+"Hindi"                                            = "हिंदी";
+"English"                                           = "अंग्रेज़ी";
+"Select Language"                                   = "भाषा चुनिए";
+"Language"                                       = "भाषा";
+"Select Branch"                                   = "शाखा का चयन करें";
+"Select Unit"                                   = "शाखा का चयन करें";
+
+"Something went wrong at our end! Don't worry, try after some time"        = "हमारे हमारी ओर से कुछ गलत हो गया! चिंता मत करो, कुछ समय बाद कोशिश करें";
+"Meeting end date must be greater than start date"                        = "मीटिंग समाप्ति तिथि प्रारंभ तिथि से अधिक होनी चाहिए";
+"Enter your mobile number and  we'll send you a OTP  in your mobile."    = "अपना मोबाइल नंबर दर्ज करें और हम आपको अपने मोबाइल में एक ओटीपी भेजेंगे";
+"Meeting date must be greater than today"                                = "बैठक की तारीख आज से अधिक होनी चाहिए";
+"Meeting end time must be greater than start time"                        = "बैठक की समय आज से अधिक होनी चाहिए";

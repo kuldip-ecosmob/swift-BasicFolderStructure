@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  VMS Employee
+
+  Created by Ronak on 30/05/18.
+  Copyright © 2018 Ecosmob. All rights reserved.
+*/
+
+//--------------------------------------------------
+// Success messages
+//--------------------------------------------------
+
+
+//--------------------------------------------------
+// Error messages
+//--------------------------------------------------
+
+"kDefaultErrorMessage"                  = "Please Try Again Later";
+"kDefaultNoInternetMessage"             = "Please Check Your Internet Connection.";
+
+"kEnterUserPhoneNumber"                 = "Please enter username/mobile number.";
+"kEnterPassword"                        = "Please enter password.";
+"kValidPassword"                        = "Password length must be minimum 6 letters!";
+"kEnterPhoneNumber"                     = "Please enter Mobile Number.";
+"kValidPhoneNumber"                     = "Mobile number must be 10 digits.";
+"kInValidPhoneNumber"                   = "Invalid Mobile Number";
+"kEnterVerificationCode"                = "Please enter OTP.";
+"kValidVerificationCode"                = "Please enter Valid OTP.";
+"kEnterConfirmPassword"                 = "Please enter Confirm Password.";
+"kValidConfirmPassword"                 = "Confirm password length Must be minimum 6 letters!";
+"kPasswordNotMatch"                     = "Passwords do not Match.";
+"kEnterEmail"                           = "Please enter Email.";
+"kValidEmail"                           = "Please enter Valid Email.";
+"kValidAlternateMobile"                 = "Alternate Mobile Number must be 10 Digits.";
+"kEnterMeetingAgenda"                   = "Please Enter Meeting Agenda.";
+"kEnterMeetingLocation"                 = "Please Enter Meeting Location.";
+"kValideScheduleMeetingDate"            = "End date must be greater than Start date.";
+"kValideScheduleMeetingTime"            = "End time must be greater than Start time.";
+"kEnterEmployeeName"                    = "Please enter employee name.";
+"kEnterVisitorName"                     = "Please enter visitor name.";
+"kEnterCompanyName"                     = "Please enter company name.";
+"kEnterComment"                         = "Please enter comment.";
+"kWarningCancelMeeting"                 = "Are you sure you want to cancel this meeting?";
+"kWarningAcceptMeeting"                 = "Are you sure you want to accept this meeting?";
+"kWarningRejectMeeting"                 = "Are you sure you want to reject this meeting?";
+"kUpdateVersionWarning"                 = "A new update is available, please update new version.";
+
+"No visitor found"                      = "No visitor found";
+"No employee found"                     = "No employee found";
+
+//--------------------------------------------------
+// ViewController Title
+//--------------------------------------------------
+"LoginVC"                                = "Login";
+"ForgotVC"                                = "Forgot Password";
+
+
+//--------------------------------------------------
+//Other String to String Localisation
+//--------------------------------------------------
+"TODAY'S MEETINGS"                      = "TODAY'S MEETINGS";
+"Pending Meetings"                      = "Pending Meetings";
+"My Meetings"                           = "My Meetings";
+"Meeting Made"                          = "Meeting Made";
